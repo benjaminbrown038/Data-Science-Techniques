@@ -12,4 +12,4 @@ The methodologies that are used are incorporating
 
 Titanic Dataset
 Running Logistic Regression Model
-Testing Assumptions of data
+Testing Assumptions of data for logistic regression problem
